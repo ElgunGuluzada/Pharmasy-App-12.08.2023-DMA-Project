@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Pharmasy_App_12._08._2023_DMA_Project</RootNamespace>
+  </PropertyGroup>
+
+</Project>
